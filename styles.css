@@ -1,3 +1,9 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap"); */
+
 .u-textCenter {
   text-align: center;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
 }
