@@ -60,3 +60,12 @@ body {
 .avatar:hover {
   opacity: 100%;
 }
+
+.favoritesFlex {
+  padding: 0% 25%;
+  display: flex;
+}
+
+.u-flexItem {
+  flex: 1;
+}
